@@ -1,16 +1,49 @@
-## Hi there 👋
+Certainly! Here's the updated README with the themed dashboard added:
 
-<!--
-**wesellis/wesellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Welcome to Wesley Ellis' GitHub! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there! I'm **Wesley Ellis**, a passionate Systems Engineer working with **CompuCom**. 
+
+## About Me
+
+- 🌟 **Name**: Wesley Ellis
+- 💼 **Job Title**: Systems Engineer at CompuCom
+- 🌐 **Specialties**: Device management, cloud migration, cybersecurity
+- 💻 **Tools & Technologies**: 
+  - **Device Management**: Intune, KACE
+  - **Cloud Services**: Azure
+  - **Scripting**: PowerShell
+  - **Security**: Azure Defender, Endpoint Security
+
+## What I Do
+
+I have a knack for optimizing IT operations and ensuring seamless device management. Here's a snapshot of my expertise:
+
+- **Azure Architect**: Designing and implementing cloud solutions
+- **Device Management Guru**: From KACE to Intune, I’ve got it covered!
+- **Automation Enthusiast**: PowerShell scripting to make life easier
+- **Security Buff**: Keeping endpoints secure with the latest tools
+
+## Fun Facts
+
+- 🚀 Successfully transitioned over 10,000 devices in a massive Windows 11 migration project.
+- 📊 Maintained a compliance rate of 95% or better in all my projects.
+- 🎯 Known for automating tedious tasks and making complex processes straightforward.
+
+## Let's Connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wesellis)
+- 🐦 [Twitter](https://twitter.com/wesellis)
+- 📧 [Email](mailto:wesellis@example.com)
+
+## My GitHub Stats
+
+![wesellis' GitHub stats](https://github-readme-stats.vercel.app/api?username=wesellis&show_icons=true&theme=dracula)
+
+Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or just chat about tech!
+
+---
+
+This README should now provide a great overview of who you are and what you do, along with a nice visual touch with the stats! If you need any more adjustments, let me know!
