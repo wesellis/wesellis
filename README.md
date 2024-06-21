@@ -16,7 +16,7 @@ Hey there! I'm **Wesley Ellis**, a passionate Systems Engineer working with **Co
 ![Security Patch Management](https://img.shields.io/badge/Security%20Patch%20Management-8BC34A?style=flat&logo=security&logoColor=white)
 ![Capella Check Printing](https://img.shields.io/badge/Capella%20Check%20Printing-009688?style=flat&logo=printing&logoColor=white)
 ![Fujitsu Scanning](https://img.shields.io/badge/Fujitsu%20Scanning-673AB7?style=flat&logo=fujitsu&logoColor=white)
-![Check Sealers](https://img.shields.io/badge/Check%20Sealers-8E24AA?style=flat&logo=check-sealers&logoColor=white)
+![Check Sealers](https://img.shields.io/badge/Check%20Sealers-8E24AA?style=flat&logo=seal&logoColor=white)
 ![RMAD](https://img.shields.io/badge/RMAD-2196F3?style=flat&logo=database&logoColor=white)
 ![Azure DevOps Services](https://img.shields.io/badge/Azure%20DevOps%20Services-0078D4?style=flat&logo=azuredevops&logoColor=white)
 ![Azure Sentinel](https://img.shields.io/badge/Azure%20Sentinel-4CAF50?style=flat&logo=sentinel&logoColor=white)
