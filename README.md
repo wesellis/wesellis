@@ -40,7 +40,3 @@ I have a knack for optimizing IT operations and ensuring seamless device managem
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wesellis&langs_count=5&theme=tokyonight)]()
 
 Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or just chat about tech!
-
----
-
-This README now includes both your GitHub stats and language stats with the specified theme. If you have any further changes, feel free to let me know!
