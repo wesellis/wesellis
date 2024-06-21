@@ -1,7 +1,3 @@
-Certainly! Here's the updated README with the themed dashboard added:
-
----
-
 # Welcome to Wesley Ellis' GitHub! 👋
 
 Hey there! I'm **Wesley Ellis**, a passionate Systems Engineer working with **CompuCom**. 
@@ -40,10 +36,11 @@ I have a knack for optimizing IT operations and ensuring seamless device managem
 
 ## My GitHub Stats
 
-![wesellis' GitHub stats](https://github-readme-stats.vercel.app/api?username=wesellis&show_icons=true&theme=dracula)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wesellis&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wesellis&langs_count=5&theme=tokyonight)]()
 
 Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or just chat about tech!
 
 ---
 
-This README should now provide a great overview of who you are and what you do, along with a nice visual touch with the stats! If you need any more adjustments, let me know!
+This README now includes both your GitHub stats and language stats with the specified theme. If you have any further changes, feel free to let me know!
