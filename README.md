@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Systems+Engineer+%40+CompuCom;Azure+Cloud+Specialist;DevOps+%26+Automation+Expert;Cybersecurity+Professional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Systems+Engineer;Azure+Cloud+Specialist;DevOps+%26+Automation+Expert;Cybersecurity+Professional)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🎯 **Professional Overview**
 
-**Senior Systems Engineer** at CompuCom with expertise in enterprise cloud architecture, device management at scale, and cybersecurity implementation. Specialized in designing resilient infrastructure solutions and automating complex IT operations.
+**Senior Systems Engineer** with expertise in enterprise cloud architecture, device management at scale, and cybersecurity implementation. Specialized in designing resilient infrastructure solutions and automating complex IT operations.
 
 ### 🏆 **Key Achievements**
 - ✅ **10,000+ devices** migrated in enterprise Windows 11 rollout
@@ -23,38 +23,55 @@
 ## 🛠️ **Core Technologies**
 
 ### **Cloud & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Sentinel" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
-</p>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></td>
+<td><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" /></td>
+<td><img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Sentinel" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" /></td>
+<td><img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V" /></td>
+<td><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" /></td>
+</tr>
+</table>
 
 ### **Device Management & Security**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intune" />
-  <img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCCM" />
-  <img src="https://img.shields.io/badge/Windows_Autopilot-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Autopilot" />
-  <img src="https://img.shields.io/badge/Dell_KACE-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell KACE" />
-  <img src="https://img.shields.io/badge/Jamf-00ADDC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf" />
-</p>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intune" /></td>
+<td><img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCCM" /></td>
+<td><img src="https://img.shields.io/badge/Windows_Autopilot-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Autopilot" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Dell_KACE-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell KACE" /></td>
+<td><img src="https://img.shields.io/badge/Jamf-00ADDC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf" /></td>
+<td></td>
+</tr>
+</table>
 
 ### **Automation & Scripting**
-<p>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
+<td><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 ### **Identity & Access Management**
-<p>
-  <img src="https://img.shields.io/badge/Azure_Active_Directory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AD" />
-  <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta" />
-  <img src="https://img.shields.io/badge/RBAC-FF6B35?style=for-the-badge&logo=auth0&logoColor=white" alt="RBAC" />
-</p>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Azure_Active_Directory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AD" /></td>
+<td><img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta" /></td>
+<td><img src="https://img.shields.io/badge/RBAC-FF6B35?style=for-the-badge&logo=auth0&logoColor=white" alt="RBAC" /></td>
+</tr>
+</table>
 
 ---
 
