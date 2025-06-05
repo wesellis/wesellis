@@ -1,93 +1,132 @@
-# Wesley Ellis | Systems Engineer & Cloud Architect 🚀
+# Wesley Ellis
+
+**Senior Systems Engineer | Cloud Architect | Automation Specialist**
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Systems+Engineer;Azure+Cloud+Specialist;DevOps+%26+Automation+Expert;Cybersecurity+Professional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Enterprise+Infrastructure+Engineer;Azure+Cloud+Solutions+Architect;PowerShell+Automation+Developer;Cybersecurity+Implementation+Specialist)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 **Professional Overview**
+## Technical Expertise
 
-**Senior Systems Engineer** with expertise in enterprise cloud architecture, device management at scale, and cybersecurity implementation. Specialized in designing resilient infrastructure solutions and automating complex IT operations.
+**Systems Engineering Professional** with deep expertise in enterprise cloud infrastructure, large-scale device management, and security architecture. Specialized in designing scalable automation solutions and implementing zero-trust security frameworks.
 
-### 🏆 **Key Achievements**
-- ✅ **10,000+ devices** migrated in enterprise Windows 11 rollout
-- 📈 **95%+ compliance rate** maintained across all security projects  
-- ⚡ **40% reduction** in manual processes through PowerShell automation
-- 🛡️ **Zero-breach record** in managed security implementations
-
----
-
-## 🛠️ **Core Technologies**
-
-### **Cloud & Infrastructure**
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></td>
-<td><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" /></td>
-<td><img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Sentinel" /></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" /></td>
-<td><img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V" /></td>
-<td><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" /></td>
-</tr>
-</table>
-
-### **Device Management & Security**
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intune" /></td>
-<td><img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCCM" /></td>
-<td><img src="https://img.shields.io/badge/Windows_Autopilot-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Autopilot" /></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Dell_KACE-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell KACE" /></td>
-<td><img src="https://img.shields.io/badge/Jamf-00ADDC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf" /></td>
-<td></td>
-</tr>
-</table>
-
-### **Automation & Scripting**
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
-<td><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-### **Identity & Access Management**
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/Azure_Active_Directory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AD" /></td>
-<td><img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta" /></td>
-<td><img src="https://img.shields.io/badge/RBAC-FF6B35?style=for-the-badge&logo=auth0&logoColor=white" alt="RBAC" /></td>
-</tr>
-</table>
+### Key Metrics
+- **10,000+ endpoints** managed in enterprise Windows 11 deployment
+- **95%+ compliance** achieved across security implementations  
+- **40% process optimization** through PowerShell automation frameworks
+- **Zero security incidents** in managed infrastructure deployments
 
 ---
 
-## 📊 **GitHub Analytics**
+## Technology Stack
+
+### Cloud & Infrastructure
+```
+Microsoft Azure          │ Azure DevOps            │ Azure Sentinel
+Windows Server 2019/2022 │ Hyper-V                 │ VMware vSphere
+Active Directory Domain   │ DNS/DHCP               │ Group Policy
+PowerShell DSC           │ Terraform              │ Infrastructure as Code
+```
+
+### Device Management & Deployment
+```
+Microsoft Intune         │ Configuration Manager   │ Windows Autopilot
+Dell KACE K1000/K2000   │ Jamf Pro               │ Mobile Device Management
+Windows Imaging (WIM/ISO)│ PXE Boot Infrastructure│ WSUS/Windows Update
+BitLocker Management     │ Compliance Policies    │ Application Deployment
+```
+
+### Security & Identity
+```
+Azure Active Directory   │ Conditional Access     │ Multi-Factor Authentication
+Okta Identity Platform  │ Role-Based Access      │ Privileged Access Management
+Microsoft Defender       │ Endpoint Detection     │ Security Information & Event Management
+Certificate Authority   │ PKI Infrastructure     │ SSL/TLS Certificate Management
+```
+
+### Automation & Development
+```
+PowerShell 5.1/7.x      │ Python 3.x             │ Bash Scripting
+Git Version Control     │ Azure Repos            │ GitHub Actions
+REST API Integration    │ Microsoft Graph API    │ Azure PowerShell Modules
+JSON/XML Processing     │ Regular Expressions    │ Error Handling & Logging
+```
+
+### Monitoring & Analytics
+```
+Azure Monitor           │ Log Analytics          │ Application Insights
+System Center Operations│ Performance Counters   │ Event Log Management
+PowerBI Dashboards      │ KQL (Kusto Query)      │ Custom Metrics & Alerts
+```
+
+---
+
+## Architecture & Implementation
+
+### Enterprise Infrastructure Design
+```yaml
+Hybrid Cloud Architecture:
+  - On-premises Active Directory integration with Azure AD
+  - Site-to-site VPN connectivity with ExpressRoute planning
+  - Disaster recovery and business continuity implementation
+  - Network segmentation and VLAN configuration
+
+Virtualization Platforms:
+  - Hyper-V cluster configuration and management
+  - VMware vSphere infrastructure optimization
+  - Container deployment with Docker and Azure Container Instances
+  - Virtual machine lifecycle management and automation
+```
+
+### Security Framework Implementation
+```yaml
+Zero Trust Architecture:
+  - Device compliance and conditional access policies
+  - Network micro-segmentation and access controls
+  - Identity verification and continuous authentication
+  - Data classification and protection strategies
+
+Endpoint Security:
+  - Microsoft Defender for Endpoint deployment
+  - Vulnerability assessment and patch management
+  - Application control and exploit protection
+  - Incident response and forensic capabilities
+```
+
+### Automation & DevOps
+```yaml
+PowerShell Automation:
+  - Advanced function development with parameter validation
+  - Module creation and PowerShell Gallery publishing
+  - Scheduled task automation and background job processing
+  - Error handling, logging, and progress reporting
+
+CI/CD Pipeline Development:
+  - Azure DevOps pipeline configuration
+  - Infrastructure as Code deployment automation
+  - Configuration drift detection and remediation
+  - Automated testing and validation frameworks
+```
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wesellis&theme=radical&hide_border=true)](https://github.com/wesellis)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wesellis&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://github.com/wesellis)
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=wesellis&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=wesellis&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesellis&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesellis&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -96,67 +135,71 @@
 
 ---
 
-## 🎓 **Certifications & Credentials**
+## Professional Certifications
 
 <div align="center">
 
-![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Azure_Administrator-Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google IT Support Professional](https://img.shields.io/badge/Google_IT_Support-Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Microsoft_Azure-Administrator_Associate-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google IT Support Professional](https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 **Professional Focus Areas**
+## Featured Repositories
+
+### Infrastructure Automation
+**PowerShell modules and scripts for enterprise infrastructure management**
+- Active Directory automation and reporting
+- Azure resource provisioning and management
+- Device compliance monitoring and remediation
+- Security audit and configuration baselines
+
+### DevOps Tooling
+**CI/CD pipeline templates and deployment automation**
+- Azure DevOps YAML pipeline configurations
+- Infrastructure as Code (Terraform/ARM templates)
+- Container deployment and orchestration scripts
+- Monitoring and alerting automation
+
+### Security Implementation
+**Security automation and compliance frameworks**
+- Vulnerability scanning and patch management
+- Endpoint detection and response automation
+- Compliance reporting and audit tools
+- Incident response and forensic utilities
+
+---
+
+## Technical Specifications
 
 ```yaml
-Systems Engineering:
-  - Enterprise Infrastructure Design
-  - Windows Server Administration  
-  - Virtualization & Containerization
-  - Performance Optimization
+Development Environment:
+  Operating Systems: [Windows 11, Windows Server 2022, Ubuntu 22.04]
+  IDEs: [Visual Studio Code, PowerShell ISE, Notepad++]
+  Version Control: [Git, Azure Repos, GitHub]
+  Containerization: [Docker, Azure Container Instances]
 
-Cloud Architecture:
-  - Azure Migration Strategies
-  - Hybrid Cloud Implementation
-  - Infrastructure as Code (IaC)
-  - Cost Optimization
-
-Security & Compliance:
-  - Endpoint Protection
-  - Threat Detection & Response
-  - Security Audit & Compliance
-  - Zero Trust Architecture
-
-Automation & DevOps:
-  - PowerShell Scripting
-  - CI/CD Pipeline Design
-  - Configuration Management
-  - Monitoring & Alerting
+Cloud Platforms:
+  Primary: Microsoft Azure (Administrator Associate certified)
+  Services: [Virtual Machines, App Services, Azure AD, Key Vault, Monitor]
+  Infrastructure: [ARM Templates, Terraform, PowerShell DSC]
+  
+Scripting & Automation:
+  Languages: [PowerShell 7.x, Python 3.x, Bash, KQL]
+  Frameworks: [.NET, REST APIs, Microsoft Graph]
+  Testing: [Pester, PyTest, Azure DevTest Labs]
 ```
 
 ---
 
-## 🚀 **Featured Projects**
-
-### 🏢 **Enterprise Windows 11 Migration**
-Large-scale device migration project utilizing Windows Autopilot and Intune for seamless deployment across 10,000+ endpoints.
-
-### 🔐 **Zero Trust Security Implementation**
-Comprehensive security overhaul implementing conditional access policies, device compliance, and threat protection across hybrid environment.
-
-### ⚡ **Infrastructure Automation Suite**
-PowerShell-based automation framework reducing manual deployment time by 75% and eliminating configuration drift.
-
----
-
-## 🌐 **Let's Connect**
+## Contact & Professional Links
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesellis)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wesellis)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesellis@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesellis)
+[![Email](https://img.shields.io/badge/Email-Professional_Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wesley.ellis@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository_Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wesellis)
 
 </div>
 
@@ -164,9 +207,9 @@ PowerShell-based automation framework reducing manual deployment time by 75% and
 
 <div align="center">
 
-### 💡 *"Automating today's complexity for tomorrow's simplicity"*
+**"Engineering reliable, scalable, and secure infrastructure solutions"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=wesellis&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/wesellis?style=for-the-badge&color=blue)](https://github.com/wesellis)
+![Profile Views](https://komarev.com/ghpvc/?username=wesellis&color=58A6FF&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/wesellis?style=flat-square&color=58A6FF&label=Followers)](https://github.com/wesellis?tab=followers)
 
 </div>
