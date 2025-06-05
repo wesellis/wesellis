@@ -25,43 +25,69 @@
 ## Technology Stack
 
 ### Cloud & Infrastructure
-```
-Microsoft Azure          │ Azure DevOps            │ Azure Sentinel
-Windows Server 2019/2022 │ Hyper-V                 │ VMware vSphere
-Active Directory Domain   │ DNS/DHCP               │ Group Policy
-PowerShell DSC           │ Terraform              │ Infrastructure as Code
-```
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Sentinel"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="AD"/>
+<img src="https://img.shields.io/badge/PowerShell_DSC-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="DSC"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+</p>
 
 ### Device Management & Deployment
-```
-Microsoft Intune         │ Configuration Manager   │ Windows Autopilot
-Dell KACE K1000/K2000   │ Jamf Pro               │ Mobile Device Management
-Windows Imaging (WIM/ISO)│ PXE Boot Infrastructure│ WSUS/Windows Update
-BitLocker Management     │ Compliance Policies    │ Application Deployment
-```
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune"/>
+<img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCCM"/>
+<img src="https://img.shields.io/badge/Windows_Autopilot-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Autopilot"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Dell_KACE-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="KACE"/>
+<img src="https://img.shields.io/badge/Jamf_Pro-00ADDC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf"/>
+<img src="https://img.shields.io/badge/BitLocker-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="BitLocker"/>
+</p>
 
 ### Security & Identity
-```
-Azure Active Directory   │ Conditional Access     │ Multi-Factor Authentication
-Okta Identity Platform  │ Role-Based Access      │ Privileged Access Management
-Microsoft Defender       │ Endpoint Detection     │ Security Information & Event Management
-Certificate Authority   │ PKI Infrastructure     │ SSL/TLS Certificate Management
-```
+<p align="center">
+<img src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AD"/>
+<img src="https://img.shields.io/badge/Conditional_Access-FF6B35?style=for-the-badge&logo=auth0&logoColor=white" alt="Conditional Access"/>
+<img src="https://img.shields.io/badge/Multi--Factor_Auth-28A745?style=for-the-badge&logo=auth0&logoColor=white" alt="MFA"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta"/>
+<img src="https://img.shields.io/badge/Microsoft_Defender-00BCF2?style=for-the-badge&logo=windows-defender&logoColor=white" alt="Defender"/>
+<img src="https://img.shields.io/badge/PKI-FF6B35?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="PKI"/>
+</p>
 
 ### Automation & Development
-```
-PowerShell 5.1/7.x      │ Python 3.x             │ Bash Scripting
-Git Version Control     │ Azure Repos            │ GitHub Actions
-REST API Integration    │ Microsoft Graph API    │ Azure PowerShell Modules
-JSON/XML Processing     │ Regular Expressions    │ Error Handling & Logging
-```
+<p align="center">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+</p>
 
 ### Monitoring & Analytics
-```
-Azure Monitor           │ Log Analytics          │ Application Insights
-System Center Operations│ Performance Counters   │ Event Log Management
-PowerBI Dashboards      │ KQL (Kusto Query)      │ Custom Metrics & Alerts
-```
+<p align="center">
+<img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Monitor"/>
+<img src="https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Log Analytics"/>
+<img src="https://img.shields.io/badge/KQL-FF6B35?style=for-the-badge&logo=microsoftacademic&logoColor=white" alt="KQL"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/SCOM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCOM"/>
+<img src="https://img.shields.io/badge/Application_Insights-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="App Insights"/>
+</p>
 
 ---
 
