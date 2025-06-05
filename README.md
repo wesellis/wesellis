@@ -25,69 +25,79 @@
 ## Technology Stack
 
 ### Cloud & Infrastructure
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
-<img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Sentinel"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
-<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="AD"/>
-<img src="https://img.shields.io/badge/PowerShell_DSC-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="DSC"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Sentinel"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V"/></td>
+<td align="center"><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="AD"/></td>
+<td align="center"><img src="https://img.shields.io/badge/PowerShell_DSC-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="DSC"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></td>
+</tr>
+</table>
 
 ### Device Management & Deployment
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune"/>
-<img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCCM"/>
-<img src="https://img.shields.io/badge/Windows_Autopilot-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Autopilot"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Dell_KACE-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="KACE"/>
-<img src="https://img.shields.io/badge/Jamf_Pro-00ADDC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf"/>
-<img src="https://img.shields.io/badge/BitLocker-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="BitLocker"/>
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune"/></td>
+<td align="center"><img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCCM"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Windows_Autopilot-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Autopilot"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Dell_KACE-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="KACE"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Jamf_Pro-00ADDC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf"/></td>
+<td align="center"><img src="https://img.shields.io/badge/BitLocker-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="BitLocker"/></td>
+</tr>
+</table>
 
 ### Security & Identity
-<p align="center">
-<img src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AD"/>
-<img src="https://img.shields.io/badge/Conditional_Access-FF6B35?style=for-the-badge&logo=auth0&logoColor=white" alt="Conditional Access"/>
-<img src="https://img.shields.io/badge/Multi--Factor_Auth-28A745?style=for-the-badge&logo=auth0&logoColor=white" alt="MFA"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta"/>
-<img src="https://img.shields.io/badge/Microsoft_Defender-00BCF2?style=for-the-badge&logo=windows-defender&logoColor=white" alt="Defender"/>
-<img src="https://img.shields.io/badge/PKI-FF6B35?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="PKI"/>
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AD"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Conditional_Access-FF6B35?style=for-the-badge&logo=auth0&logoColor=white" alt="Conditional Access"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Multi--Factor_Auth-28A745?style=for-the-badge&logo=auth0&logoColor=white" alt="MFA"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Microsoft_Defender-00BCF2?style=for-the-badge&logo=windows-defender&logoColor=white" alt="Defender"/></td>
+<td align="center"><img src="https://img.shields.io/badge/PKI-FF6B35?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="PKI"/></td>
+</tr>
+</table>
 
 ### Automation & Development
-<p align="center">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></td>
+<td align="center"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></td>
+<td align="center"><img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/></td>
+</tr>
+</table>
 
 ### Monitoring & Analytics
-<p align="center">
-<img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Monitor"/>
-<img src="https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Log Analytics"/>
-<img src="https://img.shields.io/badge/KQL-FF6B35?style=for-the-badge&logo=microsoftacademic&logoColor=white" alt="KQL"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/SCOM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCOM"/>
-<img src="https://img.shields.io/badge/Application_Insights-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="App Insights"/>
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Monitor"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Log Analytics"/></td>
+<td align="center"><img src="https://img.shields.io/badge/KQL-FF6B35?style=for-the-badge&logo=microsoftacademic&logoColor=white" alt="KQL"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></td>
+<td align="center"><img src="https://img.shields.io/badge/SCOM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCOM"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Application_Insights-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="App Insights"/></td>
+</tr>
+</table>
 
 ---
 
